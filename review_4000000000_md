@@ -14,6 +14,7 @@ quality of written presentation
 validity of HTML
 - empty h1 tag on healthcare page
 - a few validity errors with the attributes of the image tags
+- would be better to have a seperate html file so that styles are more consistent and easier to do.
 
 evidence of collaboration
 - no evidence of who did what
